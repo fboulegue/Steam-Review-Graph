@@ -2,6 +2,8 @@
 
 This project is a web-based tool that visualizes Steam game reviews over time. By entering a Steam AppID, the tool fetches review data and game details from the Steam API, then displays the information as an interactive graph using Chart.js.
 
+![Steam Review Graph Screenshot](https://i.imgur.com/6yYrftw.png)
+
 ## 🚀 Features
 
 - **Fetch Steam Review Data:** Enter any Steam AppID to get historical review data.
